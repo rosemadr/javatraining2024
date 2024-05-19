@@ -10,6 +10,9 @@ public class Person {
     }
 
     public void setAge(int age) {
+        if (age < 18 || age > 65) {
+            throw new IllegalArgumentException("Age out of range");
+        }
         this.age = age;
     }
 

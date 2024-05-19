@@ -1,4 +1,4 @@
-package datatypes;
+package datatypes.com.company;
 
 public class Wrapper {
 //    wrappers for primative data types e.g. Integer(). They encapsulate primative data type - they allow method access.
@@ -7,4 +7,6 @@ public class Wrapper {
 //    They are immutable
 //    autoboxing and unboxing - allows easy conversion between primative and wrappers
 //    object heirachy -> object is top, then the numeric types have a parent class of Number
+
+
 }
