@@ -16,6 +16,8 @@ public class Exercsie06 {
             // it two times). Lookup the arraycopy() method in the API documentation of class System:
             // https://docs.oracle.com/javase/8/docs/api/java/lang/System.html
 
+//            System.arraycopy(array[index]);
+
             return result;
         }
 }
