@@ -34,6 +34,9 @@ public class Main {
 //        exercise03.checkEqual(first, second);
         System.out.println(exercise03.checkEqual(first, second));
 
+        Exercise05 exercise05 = new Exercise05();
+//        Exercise05.Box[][] testBox = {3,4,5};
+
 
     }
 }
