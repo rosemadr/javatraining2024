@@ -1,6 +1,6 @@
 ## Syllabus
 
-### Building blocks
+### §2 Building blocks
 - [x] The environment
 - [x] Class Structure
 - [x] main() method - see [FirstJavaApp](src/main/java/FirstJavaApp.java)
@@ -13,14 +13,14 @@
 - [ ] Local Variable Type Inference
 - [ ] Garbage Collector
 
-### Operators
+### §3 Operators
 - [ ] Operators in Java
 - [ ] Unary Operators
 - [ ] Binary Operators
 - [ ] Assignment Operator
 - [ ] Comparison Operators
 
-### Flow Control
+### §4 Flow Control
 - [ ] If/Else
 - [ ] Switch Statement
 - [ ] Switch Expression
@@ -29,14 +29,15 @@
 - [ ] For Loop
 - [ ] For Each Loop
 
-### Strings
+### §5 Strings
 - [ ] String Methods
 - [ ] StringBuilder
 - [ ] String Pool
 
-
+### §11 Lambdas & Functional Programming
+- [ ] Functional Interfaces and Lambdas - see [notes](src/main/java/section11/FunctionalInferfacesLambdas.md)
 
 
 
 #### admin notes:
-mock exams enthuware.com
+mock exams [enthuware.com](https://enthuware.com/)
