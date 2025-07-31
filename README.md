@@ -3,8 +3,8 @@
 ### Building blocks
 - [x] The environment
 - [x] Class Structure
-- [ ] main() method
-- [ ] Packages
+- [x] main() method - see [FirstJavaApp](src/main/java/FirstJavaApp.java)
+- [x] Packages - see note in setName method in [Customer](src/main/java/basics/access/customer/Customer.java)
 - [ ] Compile, RUn and Archive
 - [ ] Objects
 - [ ] Data Types
