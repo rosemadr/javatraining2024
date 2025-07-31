@@ -5,7 +5,7 @@
 - [x] Class Structure
 - [x] main() method - see [FirstJavaApp](src/main/java/FirstJavaApp.java)
 - [x] Packages - see note in setName method in [Customer](src/main/java/basics/access/customer/Customer.java)
-- [ ] Compile, RUn and Archive
+- [x] Compile, Run and Archive see [notes](CompileRunArchive.md)
 - [ ] Objects
 - [ ] Data Types
 - [ ] Text Blocks

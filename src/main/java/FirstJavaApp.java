@@ -23,7 +23,10 @@ public class FirstJavaApp {
 //methods start with lower case, classes with Upper
 //        System.out.println("Hello " + args[0]);
 // system.out.println only accepts 1 argument
-// javac .\FirstJavaApp.java - compiles class - creates class file
+
+
+
+        // javac .\FirstJavaApp.java - compiles class - creates class file
 // java FirstJavaApp - run compiled class
 // java FirstJavaApp <arg> - run compiled class with arguments
         Customer customer = new VIPCustomer(); //can also write without import as customer.Customer (but not good practice)
