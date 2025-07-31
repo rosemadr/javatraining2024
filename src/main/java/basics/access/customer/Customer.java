@@ -3,12 +3,13 @@ package basics.access.customer;
 import java.util.List;
 
 public class Customer {
-//    can only have one public class per file; class file is always singular
+//    can only have one public class per file *otherwise it will not compile!*; class file is always singular
     private int age;
     private String name;
     private List<String> interests;
     private Address address;
     // attributes
+    // fields - hold info about the state of an object
 
     public Customer() {
         // constructor ( no return type)

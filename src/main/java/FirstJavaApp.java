@@ -13,10 +13,12 @@ public class FirstJavaApp {
 // java FirstJavaApp - run compiled class
 // java FirstJavaApp <arg> - run compiled class with arguments
         Customer customer = new VIPCustomer(); //can also write without import as customer.Customer (but not good practice)
+        // a *reference* is a variable that points to an object - in the above case 'customer'
         // instantiating object^
         customer.setName("Madi");
         customer.setInterests(Arrays.asList("coding"));
 
         System.out.println(customer.getName() + " loves " + customer.getInterests().get(0));
+
     }
 }
