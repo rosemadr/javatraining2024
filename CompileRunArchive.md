@@ -1,10 +1,11 @@
 ## Compile, Run and Archive notes
 #### To compile
+This will output .class files.
+<br>
 `javac [path/to/file/][filename].java [optional additional java files]`
 <br> or <br>
 `javac [packagename]/*.java` to compile the whole package. <br>
-Use `-d` flag for javac to put the classes in another directory
-This will output .class files
+Use `-d` flag for javac to put the classes in another directory.
 <br>
 #### To run
 `java [class name]`
