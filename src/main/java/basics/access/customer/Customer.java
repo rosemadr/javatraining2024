@@ -1,5 +1,8 @@
 package basics.access.customer;
 
+import basics.access.Access;
+import basics.access.*;
+
 import java.util.List;
 
 public class Customer {
@@ -39,6 +42,8 @@ public class Customer {
 
     public void setName(String name) {
         this.name = name;
+        Access access = new Access() {};
+//      Modifier modifier = new Modifier() {}; // this is not imported in the above import basics.access.*; because it is in a subpackage
     }
 
     public List<String> getInterests() {
