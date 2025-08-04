@@ -35,7 +35,8 @@
 - [ ] String Pool
 
 ### §11 Lambdas & Functional Programming
-- [ ] Functional Interfaces and Lambdas - see [notes](src/main/java/section11/FunctionalInferfacesLambdas.md)
+- [x] Functional Interfaces and Lambdas - see [notes](src/main/java/section11/FunctionalInferfacesLambdas.md)
+- 
 
 
 
