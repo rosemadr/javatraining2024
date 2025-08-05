@@ -6,7 +6,7 @@
 - [x] main() method - see [FirstJavaApp](src/main/java/FirstJavaApp.java)
 - [x] Packages - see note in setName method in [Customer](src/main/java/basics/access/customer/Customer.java)
 - [x] Compile, Run and Archive see [notes](CompileRunArchive.md)
-- [ ] Objects
+- [ ] Objects - see [Student class](src/main/java/section2/Student.java) and [Dog class](src/main/java/section2/Dog.java)
 - [ ] Data Types
 - [ ] Text Blocks
 - [ ] Variables
